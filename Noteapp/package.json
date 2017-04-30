@@ -2,6 +2,7 @@
   "name": "note-react",
   "version": "1.0.0",
   "description": "note app with React.js",
+  "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server  --progress --colors --hot"
   },
