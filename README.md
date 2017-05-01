@@ -11,7 +11,7 @@
 
 # You need to read this!
 ## _Folder : Noteapp_
-Changed prompt sentence in ./dist/bundle.js because electron doesn't support it.<br>
+Changed javascript "prompt" sentence in ./dist/bundle.js because electron doesn't support it.<br>
 So if you try to test a log in function, you should try Noteapp(before modification) folder rather than this.<br>
 The code in this folder is only for finalizing electron packaging.
 > reference : https://github.com/electron/electron/issues/472
