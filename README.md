@@ -23,5 +23,5 @@ The original code. This has the log-in function and this should be run with "npm
 ## _Folder : note-react-win32-x64_ 
 There is an Electron exe file constructed based on the code in Noteapp folder. (Not -before modiciation- folder!)
 
-## _file : app.asar_
+## _File : app.asar_
 Asar file based on the code in Noteapp folder. Run this by "electron app.asar"
